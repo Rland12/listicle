@@ -6,12 +6,12 @@ const header_left = document.createElement('div');
 header_left.className = 'header-left';
 
 const logo = document.createElement('img');
-logo.src = '/public/unearthed_logo.png';
+logo.src = '/unearthed_logo.png';
 logo.alt = 'Logo';
 logo.className = 'logo';
 
 const title = document.createElement('h1');
-title.textContent = 'UnEarthed';
+title.textContent = 'Game List 2025';
 title.className = 'title';
 
 const header_right= document.createElement('div');
