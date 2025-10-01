@@ -36,8 +36,8 @@ The following **additional** features are implemented:
 **Note: please be sure to 
 
 Here's a walkthrough of implemented required features:
-[ScreenToGif](listicle.gif)
-[ScreenToGif](listicleupdate.gif)
+[ScreenToGif1](listicle.gif)
+[ScreenToGif2update](listicleupdate.gif)
 
 ## Notes
 
