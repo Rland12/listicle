@@ -1,5 +1,5 @@
 # WEB103 Project 1 - *Listicle*
-
+# WEB103 Project 2 - *Listicle part 2*
 Submitted by: **Rashad Landrum**
 
 About this web app: **My list of top games for 2025**
@@ -12,6 +12,9 @@ The following **required** functionality is completed:
 
 <!-- Make sure to check off completed functionality below -->
 - [X] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
+- [] **The web app is connected to a PostgreSQL database, with an appropriately structured database table for the list items**
+  - [ ] **NOTE: Your walkthrough added to the README must include a view of your Render dashboard demonstrating that your Postgres database is available**
+  - [ ]  **NOTE: Your walkthrough added to the README must include a demonstration of your table contents. Use the psql command 'SELECT * FROM tablename;' to display your table**
 - [X] **The web app displays a title**
 - [X] **The web app displays at least five unique list items, each with at least three displayed attributes (such as title, text, and image)**
 - [X] **The user can click on each item in the list to see a detailed view of it, including all database fields**
