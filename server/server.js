@@ -1,5 +1,4 @@
-import express from 'express';
-import dotenv from 'dotenv.js'
+import express from 'express';  
 import gamesRouter from './routes/games.js';
 
 const app = express();
